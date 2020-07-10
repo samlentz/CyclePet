@@ -1,7 +1,7 @@
 # CyclePet
 Take care of a pet using coins earned by exercising, a work in progress 
 <p align="center">
-  <img src="images/Capture.png" width="450" title="early screenshot">
+  <img src="images/Capture.PNG" width="450" title="early screenshot">
 </p>
 
 <p align="center">
