@@ -4,6 +4,17 @@ Take care of a pet using coins earned by exercising, a work in progress
   <img src="images/Capture.PNG" width="450" title="early screenshot">
 </p>
 
+# External packages used
+
+- [pygame](https://www.pygame.org/) Game rendering and event tracking
+- [pygame_gui](https://pygame-gui.readthedocs.io/en/latest/quick_start.html) Buttons and UI styling
+- [requests](https://requests.readthedocs.io/en/master/) HTTP requests for strava API use
+
+## Included with most python distributions
+- [Pickle](https://docs.python.org/3/library/pickle.html) Save states
+- [Webbrowser](https://docs.python.org/3/library/webbrowser.html) Link opening for API authorization 
+- [Time](https://docs.python.org/3/library/time.html) Measure passing of time
+
 # Releases
 <b> Current Version : 0.1 </b>
   
@@ -36,7 +47,7 @@ Take care of a pet using coins earned by exercising, a work in progress
  - [ ]  requirements.txt pip install
  - [ ]  Remove pygame_UI to allow for pyinstaller distribution
  - [ ]  Name of pet in UI
-
+ - [ ]  Clean up imports
 
  
 <p align="center">
