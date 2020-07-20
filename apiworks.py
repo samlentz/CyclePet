@@ -3,7 +3,7 @@ class api:
     import requests
     import time
     cid = '50682'
-    secret = ''
+    com = '9e080c871a99477b99bc33a67a0cb96a3112c1be'
     actoken = ''
     retoken = ''
     athid = 0
@@ -12,7 +12,7 @@ class api:
         self.webbrowser.open('http://www.strava.com/oauth/authorize?client_id='+self.cid+'&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=read',new = 0)
         print('http://www.strava.com/oauth/authorize?client_id='+self.cid+'&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=read')
         code = input()
-        data1 =dict(client_id=self.cid,client_secret=self.secret,code=code,grant_type='authorization_code')
+        data1 =dict(client_id=self.cid,client_secret=self.com,code=code,grant_type='authorization_code')
         r = self.requests.post('https://www.strava.com/api/v3/oauth/token',data = data1)
         re = r.json()
         self.actoken = re['access_token']
