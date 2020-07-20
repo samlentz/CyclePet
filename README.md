@@ -26,11 +26,16 @@ Take care of a pet using coins earned by exercising, a work in progress
   
   
  # Todo
- - [ ] aq 
- - [ ] b
- - [ ]
- - [ ]
- - [ ]
+ - [ ]  Sound / music
+ - [ ]  Food animations
+ - [ ]  Settings screen
+ - [ ]  Catch Connection problems
+ - [ ]  Cast age into days or years
+ - [ ]  Shop UI
+ - [ ]  Different pet art
+ - [ ]  requirements.txt pip install
+ - [ ]  Remove pygame_UI to allow for pyinstaller distribution
+ - [ ]  Name of pet in UI
 
 
  
