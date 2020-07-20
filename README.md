@@ -4,7 +4,7 @@ Take care of a pet using coins earned by exercising, a work in progress
   <img src="images/Capture.PNG" width="450" title="early screenshot">
 </p>
 
-# External packages used
+# Libraries used
 
 - [pygame](https://www.pygame.org/) Game rendering and event tracking
 - [pygame_gui](https://pygame-gui.readthedocs.io/en/latest/quick_start.html) Buttons and UI styling
@@ -14,6 +14,36 @@ Take care of a pet using coins earned by exercising, a work in progress
 - [Pickle](https://docs.python.org/3/library/pickle.html) Save states
 - [Webbrowser](https://docs.python.org/3/library/webbrowser.html) Link opening for API authorization 
 - [Time](https://docs.python.org/3/library/time.html) Measure passing of time
+
+
+# How to Run
+
+Requires knowledge of your platforms command line 
+
+1. Download github as .zip
+
+2. Extract files into a new folder, navigate to directory using 
+
+``` 
+cd \path
+```
+3. Use pip to install packages
+
+```
+pip install -r requirements.txt
+
+or 
+
+pip3 install -r requirements.txt
+```
+4. Run program
+```
+python gui.py
+
+or
+
+python3 gui.py
+```
 
 # Releases
 <b> Current Version : 0.1 </b>
