@@ -78,6 +78,7 @@ fadfdasf
   
   
  # Todo
+ - [ ]  Support running
  - [ ]  Sound / music
  - [ ]  Food animations
  - [ ]  Settings screen
