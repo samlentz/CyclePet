@@ -44,7 +44,18 @@ or
 
 python3 gui.py
 ```
+## First time setup
 
+1. Enter in 1 and press enter to create a new pet
+
+2. A browser window will open with the strava authorization prompt, login to strava and authorize the application
+
+3. After authorizing, copy the API key located in the localhost url. Paste into command prompt and hit enter
+#### For example, if your URL looks like 
+ 
+fadfdasf
+ 
+4. Follow along with prompts to complete the creation of your pet
 # Releases
 <b> Current Version : 0.1 </b>
   
