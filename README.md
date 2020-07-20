@@ -4,8 +4,8 @@ Take care of a pet using coins earned by exercising, a work in progress
   <img src="images/Capture.PNG" width="450" title="early screenshot">
 </p>
 
-#Releases
-Current Version : 1.1
+# Releases
+<b> Current Version : 1.1 </b>
   
  
 1.1
