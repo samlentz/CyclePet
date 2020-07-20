@@ -25,6 +25,14 @@ Take care of a pet using coins earned by exercising, a work in progress
   
   
   
+ # Todo
+ - [ ] aq 
+ - [ ] b
+ - [ ]
+ - [ ]
+ - [ ]
+
+
  
 <p align="center">
   <img src="images/api_logo_pwrdBy_strava_horiz_gray.png" width="450" title="api credit">
