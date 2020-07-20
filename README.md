@@ -53,8 +53,12 @@ python3 gui.py
 3. After authorizing, copy the API key located in the localhost url. Paste into command prompt and hit enter
 #### For example, if your URL looks like 
  
-fadfdasf
- 
+ http://localhost/exchange_token?state=&code=682e0c97br536070920d60bd8a254a778e760d7c&scope=read
+
+#### You should paste in 
+
+682e0c97br536070920d60bd8a254a778e760d7c
+
 4. Follow along with prompts to complete the creation of your pet
 # Releases
 <b> Current Version : 0.1 </b>
