@@ -60,6 +60,12 @@ python3 gui.py
 682e0c97br536070920d60bd8a254a778e760d7c
 
 4. Follow along with prompts to complete the creation of your pet
+
+
+
+[![](http://img.youtube.com/vi/oo9m0uQtJtw/0.jpg)](http://www.youtube.com/watch?v=oo9m0uQtJtw "Cyclepet v0.1 overview")
+
+
 # Releases
 <b> Current Version : 0.1 </b>
   
