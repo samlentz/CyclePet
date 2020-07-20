@@ -16,10 +16,10 @@ Take care of a pet using coins earned by exercising, a work in progress
   
   
 ## 1.0
--API integration
--Basic pet health mechanics
--Save/Load current pet
--Placeholder art
+  - API integration
+  - Basic pet health mechanics
+  - Save/Load current pet
+  - Placeholder art
   
   
   
