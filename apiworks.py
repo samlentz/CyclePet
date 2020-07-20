@@ -22,8 +22,8 @@ class api:
 
     def refresh(self):
         if(self.exptime-self.time.time()<0 or True):
-            print('refreshing')
-            data =dict(client_id=self.cid,client_secret=self.secret,refresh_token=self.retoken,grant_type='refresh_token')
+            print('Refreshing Miles')
+            data =dict(client_id=self.cid,client_secret=self.com,refresh_token=self.retoken,grant_type='refresh_token')
             response = self.requests.post('https://www.strava.com/api/v3/oauth/token',data = data)
             js = response.json()
             self.actoken = js['access_token']
