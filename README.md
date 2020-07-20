@@ -12,18 +12,14 @@ Take care of a pet using coins earned by exercising, a work in progress
 
   - Pet animations
   - Background upgrades
-  - Play with your pet to increasse happiness
+  - Play with your pet to increase happiness
   
   
 ## 1.0
-
-  API integration
-  
-  Basic pet health mechanics
-  
-  Save/Load current pet
-  
-  Placeholder art
+-API integration
+-Basic pet health mechanics
+-Save/Load current pet
+-Placeholder art
   
   
   
