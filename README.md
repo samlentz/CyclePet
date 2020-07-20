@@ -62,6 +62,8 @@ python3 gui.py
 4. Follow along with prompts to complete the creation of your pet
 
 
+# Short Demo Video
+
 
 [![](http://img.youtube.com/vi/oo9m0uQtJtw/0.jpg)](http://www.youtube.com/watch?v=oo9m0uQtJtw "Cyclepet v0.1 overview")
 
