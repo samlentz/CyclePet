@@ -8,14 +8,14 @@ Take care of a pet using coins earned by exercising, a work in progress
 <b> Current Version : 1.1 </b>
   
  
-## 1.1
+### 1.1
 
   - Pet animations
   - Background upgrades
   - Play with your pet to increase happiness
   
   
-## 1.0
+### 1.0
   - API integration
   - Basic pet health mechanics
   - Save/Load current pet
