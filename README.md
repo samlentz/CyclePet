@@ -88,8 +88,8 @@ python3 gui.py
   
  # Todo
  - [o]  Support running
- - [*]  Sound / music
- - [ ]  Food animations
+ - [o]  Sound / music
+ - [ o ]  Food animations
  - [ ]  Settings screen
  - [ ]  Catch Connection problems
  - [ ]  Cast age into days or years
