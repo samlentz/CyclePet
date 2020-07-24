@@ -87,8 +87,8 @@ python3 gui.py
   
   
  # Todo
- - [ ]  Support running
- - [ ]  Sound / music
+ - [o]  Support running
+ - [*]  Sound / music
  - [ ]  Food animations
  - [ ]  Settings screen
  - [ ]  Catch Connection problems
@@ -99,6 +99,10 @@ python3 gui.py
  - [ ]  Remove pygame_UI to allow for pyinstaller distribution
  - [ ]  Name of pet in UI
  - [ ]  Clean up imports
+ 
+ * = in progress
+ o = in testing
+ x = complete
 
  
 <p align="center">
