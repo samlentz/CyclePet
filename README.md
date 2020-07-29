@@ -4,7 +4,7 @@ Take care of a pet using coins earned by exercising, a work in progress
   <img src="images/Capture.PNG" width="450" title="early screenshot">
 </p>
 
-<b> [Cyclepet v0.1 Short Demo Video](http://www.youtube.com/watch?v=oo9m0uQtJtw) </b>
+<b> [Cyclepet v0.2 Short Demo Video](https://youtu.be/n86HwGTivHQ) </b>
 # Libraries used
 
 - [pygame](https://www.pygame.org/) Game rendering and event tracking
