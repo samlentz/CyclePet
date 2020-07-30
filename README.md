@@ -66,7 +66,14 @@ python3 gui.py
 
 
 # Releases
-<b> Current Version : 0.1 </b>
+<b> Current Version : 0.2 </b>
+ 
+ ### 0.2
+
+  - Running support added (1 mile = 3 coin)
+  - Music and walking noise
+  - Food bowl and eating animation when purchasing food 
+  
   
  
 ### 0.1
