@@ -106,6 +106,7 @@ python3 gui.py
  - [ ]  Remove pygame_UI to allow for pyinstaller distribution
  - [ ]  Name of pet in UI
  - [ ]  Clean up imports
+ - [ ]  Grow happiness with food++
  
  * = in progress
  o = in testing
